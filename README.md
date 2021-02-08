@@ -1,5 +1,5 @@
 # C# using LINQ Queries & Operators
-This project is a example of use of LINQ in C#.
+This project is a example of use of LINQ in C#.  
 This project is done on course "C#: Using LINQ Queries & Operators" of Pluralsight
 
 ## Requirements
